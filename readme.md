@@ -25,7 +25,7 @@ Não se preocupe em entregar algo perfeito — queremos avaliar principalmente s
 
 ## 📌 Estrutura do Desafio
 
-### **1. Parte Teórica **
+### **1. Parte Teórica**
 Responda rapidamente (pode ser no próprio README ou em um PDF):  
 1. Qual a diferença entre **StatefulWidget** e **StatelessWidget** no Flutter?  
 2. Explique brevemente a diferença entre **REST** e **GraphQL**.  
@@ -34,7 +34,7 @@ Responda rapidamente (pode ser no próprio README ou em um PDF):
 
 ---
 
-### **2. Parte Prática – Flutter **
+### **2. Parte Prática – Flutter**
 Crie uma aplicação Flutter com:  
 - Uma tela de **lista de produtos** (os dados podem ser fixos em uma lista no código).  
 - Cada item deve mostrar: **nome do produto, preço e botão "detalhes"**.  
