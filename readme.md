@@ -1,6 +1,6 @@
 # 📝 Desafio Técnico – Estágio em Desenvolvimento de Software  
 **Empresa:** [RDR Solutions](https://rdrsolutions.com.br/)  
-**Formato:** Individual | Tempo estimado: **até 2h**  
+**Formato:** Individual
 
 Olá! 👋  
 Este desafio tem como objetivo conhecer suas habilidades em **Flutter** e **Node.js + NestJS**.  
